@@ -9,7 +9,8 @@ A hands-on, phase-wise guide from Python fundamentals to intermediate concepts u
 This curriculum covers 16 chapters structured across 4 progressive phases. Each notebook is packed with concept explanations, runnable code snippets, Pythonic tricks, and hands-on exercises.
 
 ### 🟢 Phase 1: Python Foundations
-Core syntax, numbers, strings, and conditional logic.
+Core syntax, environment setup, numbers, strings, and conditional logic.
+- **Chapter 0:** [Python Overview, Ecosystem & Virtual Environments](Ch00_Python_Overview_and_Virtual_Environments.ipynb) — Multi-paradigm design, ecosystem landscape, and managing isolated `venv` environments.
 - **Chapter 1:** [Variables, Data Types & Print](Ch01_Variables_and_DataTypes.ipynb) — Variables, dynamic typing, f-string formatting, and truthiness.
 - **Chapter 2:** [Numbers and Math Operations](Ch02_Numbers_and_Math.ipynb) — Arithmetic, `divmod()`, chained comparisons, and the native `math` module.
 - **Chapter 3:** [Strings: Deep Dive & Tricks](Ch03_Strings_DeepDive.ipynb) — Slicing, string methods, reversing tricks, translations, and formatting.
