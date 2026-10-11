@@ -39,6 +39,17 @@ Building robust programs with native modules and OOP.
 
 ---
 
+## 🔬 Specialized AI & Data Science Tracks
+
+Beyond Python core foundations, explore the dedicated modular courses included in this repository:
+
+1. [**Jupyter Track (`Jupyter/`)**](Jupyter/README.md) — 5 chapters covering interactive workflows, keyboard shortcuts, rich outputs, magic commands, and standard-library data exploration.
+2. [**NumPy Track (`NumPy/`)**](NumPy/README.md) — 8 chapters covering array layouts, slicing views vs. copies, broadcasting rules, linear algebra, and a complete pure-NumPy data analysis project.
+3. [**Pandas Track (`pandas/`)**](pandas/README.md) — 10 chapters covering Series/DataFrames, robust file I/O, filtering, data cleaning, GroupBy, reshaping, time series, and an end-to-end e-commerce analysis project.
+4. [**PyTorch Track (`PyTorch/`)**](PyTorch/README.md) — 10 chapters covering tensor mechanics, autograd graphs, neural networks (`nn.Module`), training loops, deployment, corner cases, and an end-to-end MNIST digit classifier project.
+
+---
+
 ## 🚀 Getting Started
 
 No `pip install` required! Simply clone the repository and open the notebooks in your favorite editor:
